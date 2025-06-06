@@ -1,0 +1,16 @@
+/*
+1. HR -> Shifts time picker initialization
+2. HR -> Weekend -> set date selected when edit -> done
+4. HR -> Attendance -> Description input field issue.
+5. HR -> Attendance -> time and date picker.
+6. HR -> Allowance -> Description input field issue (validation and show value on edit view).
+7. HR -> Employee Salaries -> Effective date (date picker) -> done
+8. HR -> Deductions -> Description input field issue.
+
+
+
+
+multiple time reload to any page, onchnge news content show on edit modals, image preview, after submit no modal open, news details preview 3 type of videos needs other or not
+
+
+*/
